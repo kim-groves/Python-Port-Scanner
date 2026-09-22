@@ -63,7 +63,7 @@ Scan Summary:
 
 ## Purpose
 
-this was a personal project that I created after seeing similar projects made by others online and figured I'd give it a shot. This project was overall created to develop my experience with Python networking, TCP connections, and basic network reconnaissance through a hands on activity.
+This was a personal project that I created after seeing similar projects made by others online and figured I'd give it a shot. This project was overall created to develop my experience with Python networking, TCP connections, and basic network reconnaissance through a hands on activity.
 
 ## Disclaimer
 
